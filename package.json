@@ -1,0 +1,10 @@
+{
+  "name": "Frontend",
+  "version": "0.1.0",
+  "description": "AR Frontend",
+  "main": "index.js",
+  "repository": "https://github.com/neosis/AR-FE.git",
+  "author": "Ashutosh Jadhav",
+  "license": "MIT",
+  "private": false
+}
