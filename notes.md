@@ -5,10 +5,10 @@ My name is ashutosh. This is simply dummy text of the printing and typesetting i
 
 > This should be observed with added caution.
 
-```
-This code should be tested
-Another line of code
-Third line of code
+```javascript
+var local = ""
+alert(local)
+local = "state"
 ```
 
 Following is a list -
