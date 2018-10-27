@@ -25,6 +25,6 @@ Following is table of my activities -
 
 \#  |Title|Description
 :---|:---:|:---
-1|First name|Preferred name
-2|Last name|Not so `preferred` name
-3| some other title|**TBC**
+1|First name|Preferred name :point_left:
+2|Last name|Not so `preferred` name :unlock"
+3| some other title|**TBC** :in:
