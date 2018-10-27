@@ -5,10 +5,11 @@ My name is ashutosh. This is simply dummy text of the printing and typesetting i
 
 > This should be observed with added caution.
 
-```javascript
-var local = ""
-alert(local)
-local = "state"
+```java
+public void main(String[] args) {
+	Servlet serv = new Servlet();
+	serv.post();
+}
 ```
 
 Following is a list -
